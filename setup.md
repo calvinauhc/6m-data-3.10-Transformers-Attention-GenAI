@@ -27,14 +27,14 @@ conda --version
 
 ```bash
 git clone https://github.com/su-ntu-ctp/6m-data-3.10-Transformers-Attention-GenAI.git
-cd dsai-m3-l10-learner
+cd 6m-data-3.10-Transformers-Attention-GenAI
 ```
 
 ---
 
 ## 3. Create the conda environment
 
-From inside the `dsai-m3-l10-learner` folder:
+From inside the `6m-data-3.10-Transformers-Attention-GenAI` folder:
 
 ```bash
 conda env create -f environment.yml
